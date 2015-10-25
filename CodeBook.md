@@ -12,14 +12,10 @@ The goal is to prepare tidy data that can be used for later analysis.
 
 
 Collection of the raw data
-The data has been made available by
- UCI's Machine Learning Repository.
-
+The data has been made available by UCI's Machine Learning Repository.
 Url: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The data comes from the experiment done by: Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz.
-
-
 
 Creating the tidy datafile
 
